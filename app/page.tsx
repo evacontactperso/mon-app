@@ -76,7 +76,7 @@ export default function Home() {
   }
 
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-950 px-4 py-8 text-zinc-50">
+    <div className="flex min-h-screen items-center justify-center bg-pink-200 px-4 py-8 text-zinc-950">
       <div className="w-full max-w-md rounded-3xl border border-zinc-800 bg-zinc-900/80 p-8 shadow-2xl shadow-black/40 backdrop-blur">
         <div className="mb-8 space-y-2">
           <p className="text-xs font-semibold uppercase tracking-[0.2em] text-emerald-400">
